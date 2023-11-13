@@ -1,0 +1,50 @@
+.text-orange
+{
+    color: orange;
+}
+
+.text-rgb
+{
+    color: rgb(120,0,120);
+}
+
+.text-hexa1
+{
+    color: #d23100;
+}
+
+.text-hexa2
+{
+    color: #34e;
+}
+.text-hsl
+{
+    color: hsl(315, 73.3%, 47%);
+}
+
+.background
+{
+    color: white;
+    background: black;
+}
+
+.important
+{
+    background: red;
+}
+
+.rgba
+{
+    background: rgba(255,0,0,.5);
+    opacity: 0.5;
+}
+
+.hsl{
+    background: hsl(0, 100%, 50%, 0.5);
+}
+
+.opacity
+{
+    background: red;
+    opacity: 0.5;
+}

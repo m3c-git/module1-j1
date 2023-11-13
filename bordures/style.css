@@ -1,0 +1,41 @@
+.border2
+{
+    border: solid violet 1px;
+}
+
+
+.border3
+{
+    border: dotted red 1px;
+}
+
+.border4
+{
+    border: dashed green 5px;
+}
+
+.border5
+{
+    border: double pink 1px;
+}
+
+.border6
+{
+    border-left: solid orange 5px;
+}
+
+.border7
+{
+    border: solid orange 3px;
+    border-radius: 10px;
+}
+
+.border8
+{
+    border: solid orange 3px;
+    border-radius: 50%;
+
+}
+
+
+
