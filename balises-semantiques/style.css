@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+
+div, p, header, nav, .footer, main, section, .article, .article2, .aside, h1, h2 {
+    margin: 15px;
+}
+.container{
+    border: 3px solid black;
+}
+
+.header, .footer, .content{
+    border: 4px solid blue;
+    background: #dff7dfff;
+}
+
+.nav, .section, .side-content{ 
+    border: 2px solid grey;
+    background: #e3e3e3;
+}
+
+.article, .article2{
+    background: #fff4e1;
+    border: #ff642b solid;
+}
+
+.article1{
+    border-width: 1px;
+}
+
+.article2{
+    border: 0px 1px 0px 1px;
+}
