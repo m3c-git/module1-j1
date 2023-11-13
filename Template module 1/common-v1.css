@@ -1,0 +1,60 @@
+/****************************************************************
+                  GENERAL
+*****************************************************************/
+html{
+    font-size: 16px;
+}
+
+/* Le corps du document */
+.body{
+    background: #eee;
+    font-family: sans-serif;
+    color: #555;
+}
+
+/* Le titre principal d'un flux */
+h1{
+
+}
+
+h2{
+    font-size: 2rem;
+    color: #333;
+}
+
+h3{
+}
+
+.link{
+    text-decoration: none;
+    color: #dd5735;
+}
+
+/****************************************************************
+                  MAIN LAYOUT
+*****************************************************************/
+
+.header, .footer{
+    background: #ddd;
+    text-align: center;
+}
+
+.orange{
+    color: #dd5735;
+}
+
+.parent{
+    border: 1px #dd5735 dashed;
+}
+
+
+.header{
+    border: 1px #dd5735 solid;
+}
+
+.footer{
+    border: 1px ##555 solid;
+}
+
+/* rem pour les police
+em pour les marges padding bordures */

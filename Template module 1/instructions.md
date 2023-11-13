@@ -17,6 +17,10 @@ Il y aura deux autres versions de cette feuille de style:
 
 Cette feuille de style peut être réutilisée en cours de DEV pour vous faire gagner du temps
 
+gris police : #555
+gris fond body : #eee
+gris header / footer : #ddd
+rouge: #dd5735
 ## Feuille de style theme.css
 
 Cette feuille de style (ici vide) servira dans les autres exercices du module pour y placer le code CSS propre à chaque exercice.
