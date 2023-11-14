@@ -1,0 +1,52 @@
+@font-face{
+    font-family: 'Muli';
+    src: url(../fonts/Muli/Muli-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-size: normal;
+}
+
+@font-face{
+    font-family: 'Muli';
+    src: url(../fonts/Muli/Muli-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-size: normal;
+}
+
+@font-face{
+    font-family: 'Muli';
+    src: url(../fonts/Muli/Muli-BoldItalic.ttf) format('truetype');
+    font-weight: bold;
+    font-size: italic;
+}
+
+@font-face{
+    font-family: 'Muli';
+    src: url(../fonts/Muli/Muli-Italic.ttf) format('truetype');
+    font-weight: normal;
+    font-size: italic;
+}
+
+body{
+    font-family: 'Muli', sans-serif;
+}
+
+h1{
+    font-family: 'Laria' sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.t1{
+    font-family: 'Lora', serif;
+}
+
+t2{
+    font-family: 'Red Hat Mono', monospace;    
+}
+.t3{
+    font-family: 'PT Serif', serif;
+}
+
+.t4{
+    font-family: 'Meow Script', cursive;
+}

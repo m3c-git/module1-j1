@@ -91,3 +91,7 @@ line-height: 1.5;
 .wpre{
     white-space: pre;
 }
+
+.text-align{
+    text-align: right;
+}
