@@ -14,17 +14,22 @@ html{
 
 /* Le titre principal d'un flux */
 h1{
-
+    font-size: 2.5rem;
+    color: #DD5735;
 }
 
+/* Le titre de second niveau  */
 h2{
     font-size: 2rem;
     color: #333;
 }
 
+/* Le titre de troisème niveau */
 h3{
+    font-size: 1.5rem;
 }
 
+/* Les liens */
 .link{
     text-decoration: none;
     color: #dd5735;
@@ -34,27 +39,34 @@ h3{
                   MAIN LAYOUT
 *****************************************************************/
 
-.header, .footer{
-    background: #ddd;
+/* L'entête de la page */
+.header {
     text-align: center;
+    background-color: #DDD;
+    border: 1px solid #DD5735;
+}
+
+/* Le pied de page */
+.footer {
+	text-align: center;
+	background-color: #ddd;
+	border: 1px solid #555;
 }
 
 .orange{
     color: #dd5735;
 }
 
+/* *****************************************************************
+                 VARIOUS
+***************************************************************** */
+
+/* Utile pour mettre en évidence un parent */
 .parent{
     border: 1px #dd5735 dashed;
 }
 
 
-.header{
-    border: 1px #dd5735 solid;
-}
-
-.footer{
-    border: 1px ##555 solid;
-}
 
 /* rem pour les police
 em pour les marges padding bordures */
