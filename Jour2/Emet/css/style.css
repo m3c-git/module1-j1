@@ -56,8 +56,11 @@ h3{
 	border: 1px solid #555;
 }
 
-.orange{
-    color: #dd5735;
+.pre{
+    font-family: "Monaco", monospace;
+    font-size: 14px;
+    color: #000;
+    background: #fff;
 }
 
 /* *****************************************************************
@@ -71,5 +74,3 @@ h3{
 
 
 
-/* rem pour les police
-em pour les marges padding bordures */
