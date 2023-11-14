@@ -1,0 +1,93 @@
+article{
+    line-height: 2;
+}
+
+code{
+    font-family: sans-serif;
+    color: #111;
+}
+
+.medium{
+    font-size: medium;
+}
+
+.large{
+    font-size: large;
+}
+
+.px{
+    font-size: 14px;
+}
+
+.pt{
+    font-size: 14pt;
+}
+.pourcentage{
+    font-size: 150%;
+}
+.em{
+    font-size: 1.5em;
+}
+.rem{
+    font-size: 1.5rem;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.normal{
+    font-weight: normal;
+}
+
+.cent{
+    font-weight: 700;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+.lighter{
+    font-weight: lighter;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.normal{
+    font-style: normal;
+}
+
+.lheighun{
+    line-height: 1;
+}
+
+.lheighuncinq{
+line-height: 1.5;
+}
+
+.lheighunquatre{
+    line-height: 4;
+}
+
+.letter{
+    letter-spacing: 0.5em;
+}
+
+.word{
+    word-spacing: 2em;
+}
+
+.wnormal{
+    white-space: normal;
+}
+
+.wnowrap{
+    white-space: nowrap;
+}
+
+.wpre{
+    white-space: pre;
+}
