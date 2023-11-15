@@ -1,0 +1,13 @@
+.who, .what{
+    float: left;
+    margin-right: 1em;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    float: right;
+}
+

@@ -1,0 +1,105 @@
+/****************************************************************
+                  GENERAL
+*****************************************************************/
+/* rem pour les police
+em pour les marges padding bordures */
+
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 0.875rem;
+    background-image: url(../img/fond.png);
+}
+
+/* Le corps du document */
+.body{
+    font-family: Verdana, sans-serif;
+    line-height: 1.5;
+    max-width: 46.875em;
+    color: #2C4726;
+    margin: 0 auto;
+    height: 100vh;
+ 
+}
+
+/*Menu*/
+
+header{
+    background: #b8cb21;
+}
+nav{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.25rem;
+}
+
+/* main */
+.main{
+    background: #fff;
+
+}
+
+/* Le titre principal d'un flux */
+h1{
+    font-size: 1.875rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Le titre de second niveau  */
+h2{
+    font-size: 1.313rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Le titre de troisème niveau */
+h3{
+    font-size: 1.5rem;
+}
+
+/* Les bouttons */
+button{
+    background: #b8cb21;
+    border-style: none;
+}
+
+/* Les liens */
+.link{
+    text-decoration: none;
+    color: #dd5735;
+}
+
+/****************************************************************
+                  MAIN LAYOUT
+*****************************************************************/
+
+/* L'entête de la page */
+.header {
+    text-align: center;
+
+}
+
+/* Le pied de page */
+.footer {
+	text-align: center;
+    font-size: 0.75rem;
+}
+
+
+.orange{
+    color: #dd5735;
+}
+
+/* *****************************************************************
+                 VARIOUS
+***************************************************************** */
+
+/* Utile pour mettre en évidence un parent */
+.parent{
+    border: 1px #dd5735 dashed;
+}
+
+
+
+/* rem pour les police
+em pour les marges padding bordures */
