@@ -82,16 +82,77 @@ line-height: 1.5;
 
 .wnormal{
     white-space: normal;
+    width: 200px;
+    background: #ccc;
 }
 
 .wnowrap{
     white-space: nowrap;
+    width: 200px;
+    background: #ccc;
 }
 
 .wpre{
     white-space: pre;
+    width: 200px;
+    background: #ccc;
 }
 
-.text-align{
-    text-align: right;
+.text-align-left{
+    text-align:left;
+}
+
+.text-align-right{
+    text-align:right;
+}
+
+.text-align-center{
+    text-align:center;
+}
+
+.text-align-justify{
+    text-align:justify;
+}
+
+.text-indent{
+    text-indent:10%
+}
+
+.text-transform-capitalize{
+    text-transform: capitalize;
+}
+
+.text-transform-uppercase{
+    text-transform: uppercase;
+}
+
+.text-transform-none{
+    text-transform: none;
+}
+
+.text-decoration-underline {
+	text-decoration: underline;
+}
+.text-decoration-none{
+	text-decoration: none;
+}
+
+a{
+    color: red;
+}
+
+.text-decoration-overline {
+	text-decoration: overline;
+}
+.text-decoration-underline-red {
+	text-decoration: underline red;
+}
+.text-decoration-underline-double {
+	text-decoration: underline double orangered;
+}
+.text-decoration-underline-green {
+	text-decoration: underline dashed green;
+}
+.text-decoration-underline-wavy {
+	text-decoration: underline wavy teal;
 }
