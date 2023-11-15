@@ -1,6 +1,45 @@
+/*general*/
+@font-face {
+	font-family: 'Courgette';
+	src: url(../ressources/Courgette-Regular.woff) format('woff');
+    font-weight: normal;
+    font-size: normal;
+    font-display: auto;
+}
+
 img{
     margin: 0.5em;
 }
+
+strong{
+    color: #003884;
+} 
+
+em{
+    color: #4f89b9;
+}
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.titre, .menu, .citation, h2, h3{
+    font-family: 'Courgette', 'sans-serif';
+    font-weight: 600;
+}
+
+li a{
+    text-decoration: none;
+    color: #4f89b9;
+}
+
+.titre-reseau{
+    color: #003884;
+    font-size: 1.563rem;
+}
+
+/************************************************************/
+
 
 .blockquote{
     text-align: center;
@@ -62,10 +101,16 @@ h3{
 {
     font-size: 1.875rem;
     color: #003884;
+    margin: 0.1em;
 
 }
 
 .copyright{
     font-size: 0.875rem;
     color: #444
+}
+
+.divider
+{
+    border-top: 2px solid #003884;
 }
