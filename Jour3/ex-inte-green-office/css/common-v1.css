@@ -21,13 +21,17 @@ html{
     color: #2C4726;
     margin: 0 auto;
     height: 100vh;
- 
+}
+
+.container{
+    margin: 0 auto;
 }
 
 /*Menu*/
 
 header{
     background: #b8cb21;
+    height: 7em;
 }
 nav{
     font-family: 'Oswald', sans-serif;
@@ -37,7 +41,7 @@ nav{
 /* main */
 .main{
     background: #fff;
-
+    height: 92%;
 }
 
 /* Le titre principal d'un flux */
@@ -81,9 +85,13 @@ button{
 
 /* Le pied de page */
 .footer {
-	text-align: center;
+    font-size: 0.75rem;
+    text-align: center;
+    margin: 2em 0;
     font-size: 0.75rem;
 }
+
+
 
 
 .orange{

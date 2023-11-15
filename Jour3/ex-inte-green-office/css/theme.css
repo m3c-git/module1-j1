@@ -1,6 +1,10 @@
 .who, .what{
     float: left;
-    margin-right: 1em;
+
+}
+
+article{
+    margin: 0 2em;
 }
 
 h1{
@@ -9,5 +13,27 @@ h1{
 
 button{
     float: right;
+    height: 3.3em;
+    width: 7em;
 }
 
+.logo-3wa{
+    height: 50px;
+    width: 50px;
+}
+
+.clear{
+    clear: both;
+}
+
+nav{
+    margin-top: 1em;
+}
+nav li{
+    text-decoration: underline;
+    list-style: none;
+    display:inline;
+    text-align: center;
+    margin: 1em;
+    list-style: 
+}
